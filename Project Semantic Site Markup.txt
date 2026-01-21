@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>About ME (Christopher Arocha)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Project: Semantic Site Markup </title>
+    <link rel="stylesheet" type="text/css" href="misc.css" />
+    </head>
+<body>
+<h1>Header</h1>
+<br>
+<br>
+<nav>
+    <p class="nav">Home</p>
+    <p class="nav">Our Team</p>
+    <p class="nav">Projects</p>
+    <p class="nav">Contact</p>
+    <input type="text" placeholder="Search Query">
+    <button>Go!</button>
+</nav>
+</body>
